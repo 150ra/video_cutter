@@ -1,5 +1,5 @@
 # video_cutter
-Introduce video intervals (in seconds) and the program automatically cuts and join the clips
+Edit t_clips variable with the video intervals (in seconds) that you want and the program automatically cuts and join the clips
 
 TO RUN THAT YOU NEED TO HAVE MOVIEPY INSTALLED 
 
